@@ -1,0 +1,35 @@
+*{
+    margin: 1px;;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.searchBtn
+{
+    background-color: coral;
+    width: 100px;
+    font-weight: 900;
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+.container{
+    width: 600px;
+    font-weight: bolder;
+    font-size: larger;
+    height: max-content;
+}
+.tableStyle
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#user{
+    font-size: 25px;
+    color: darkmagenta;
+}
